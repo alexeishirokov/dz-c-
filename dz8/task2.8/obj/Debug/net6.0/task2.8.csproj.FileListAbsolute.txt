@@ -1,0 +1,15 @@
+D:\DZ\dz-c-\dz8\task2.8\bin\Debug\net6.0\task2.8.exe
+D:\DZ\dz-c-\dz8\task2.8\bin\Debug\net6.0\task2.8.deps.json
+D:\DZ\dz-c-\dz8\task2.8\bin\Debug\net6.0\task2.8.runtimeconfig.json
+D:\DZ\dz-c-\dz8\task2.8\bin\Debug\net6.0\task2.8.dll
+D:\DZ\dz-c-\dz8\task2.8\bin\Debug\net6.0\task2.8.pdb
+D:\DZ\dz-c-\dz8\task2.8\obj\Debug\net6.0\task2.8.csproj.AssemblyReference.cache
+D:\DZ\dz-c-\dz8\task2.8\obj\Debug\net6.0\task2.8.GeneratedMSBuildEditorConfig.editorconfig
+D:\DZ\dz-c-\dz8\task2.8\obj\Debug\net6.0\task2.8.AssemblyInfoInputs.cache
+D:\DZ\dz-c-\dz8\task2.8\obj\Debug\net6.0\task2.8.AssemblyInfo.cs
+D:\DZ\dz-c-\dz8\task2.8\obj\Debug\net6.0\task2.8.csproj.CoreCompileInputs.cache
+D:\DZ\dz-c-\dz8\task2.8\obj\Debug\net6.0\task2.8.dll
+D:\DZ\dz-c-\dz8\task2.8\obj\Debug\net6.0\refint\task2.8.dll
+D:\DZ\dz-c-\dz8\task2.8\obj\Debug\net6.0\task2.8.pdb
+D:\DZ\dz-c-\dz8\task2.8\obj\Debug\net6.0\task2.8.genruntimeconfig.cache
+D:\DZ\dz-c-\dz8\task2.8\obj\Debug\net6.0\ref\task2.8.dll
